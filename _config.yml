@@ -1,0 +1,7 @@
+# Jekyll configuration for GitHub Pages
+title: "For All Dev"
+description: "Redirect page for For All Dev"
+
+# Build settings
+markdown: kramdown
+theme: minima
